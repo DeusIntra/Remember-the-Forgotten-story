@@ -7,8 +7,12 @@
         "id": "3dcf1aeba16de309",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "17-09-2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "17-09-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "17-09-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "17-09-2022.md"
+              }
             }
           }
         ],
@@ -122,9 +130,9 @@
   },
   "active": "3dcf1aeba16de309",
   "lastOpenFiles": [
-    "17-09-2022.md",
     "Сюжеты/ДЭМО-ВЕРСИЯ.md",
     "Сюжеты/Для Промо.md",
+    "17-09-2022.md",
     "Recording 20220917211022.webm",
     "Recording 20220917210942.webm",
     "Recording 20220917210958.webm",
