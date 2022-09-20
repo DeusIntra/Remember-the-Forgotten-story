@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "221d7644bd679867",
+    "id": "b6e4dbbda41df589",
     "type": "split",
     "children": [
       {
-        "id": "69b8f7a61bd49d43",
+        "id": "3dcf1aeba16de309",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Города/Валантис.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "518a9b58fc0cd28c",
+    "id": "1f47fd9a3f9432a4",
     "type": "split",
     "children": [
       {
-        "id": "9be35e9f65871812",
+        "id": "06dfde1069036dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f84f42962c8234",
+            "id": "bd2a0f07c9ca7b11",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "1a07b0b0dbdcb5d4",
+            "id": "fd84c114a9e3e8a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "1101f88025e58107",
+            "id": "4b206d3c181f3537",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,75 +60,77 @@
     "width": 300
   },
   "right": {
-    "id": "bf5e9cdbbc76e8d8",
+    "id": "20ce4f5d49bda234",
     "type": "split",
     "children": [
       {
-        "id": "23e1cfa9c125a6c2",
+        "id": "5a1798b8b8a022cc",
         "type": "tabs",
         "children": [
           {
-            "id": "46e7b95faedf938d",
+            "id": "d7dda3c9a756880e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Города/Валантис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "f7fa6828b174bcc3",
+            "id": "bed1e196c410a56f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Города/Валантис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7774788f256aa897",
+            "id": "2d7b8f85f8e98362",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "d9fc761a9fd2cff5",
+            "id": "db179388546a5016",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Города/Валантис.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c3f84f42962c8234",
+  "active": "3dcf1aeba16de309",
   "lastOpenFiles": [
-    "Глава 1.md",
-    "Города/Валантис.md",
-    "link note.md",
-    "Readme.md"
+    "17-09-2022.md",
+    "Сюжеты/ДЭМО-ВЕРСИЯ.md",
+    "Сюжеты/Для Промо.md",
+    "Recording 20220917211022.webm",
+    "Recording 20220917210942.webm",
+    "Recording 20220917210958.webm",
+    "Персонажи/~ПЕРСОНАЖИ~.md",
+    "Персонажи/Адда.md",
+    "Локации/Ка.jpg",
+    "Животные/Цинцикор.md"
   ]
 }
